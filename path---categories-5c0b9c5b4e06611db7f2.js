@@ -1,0 +1,2 @@
+webpackJsonp([30875753179511],{404:function(a,t){a.exports={data:{site:{siteMetadata:{title:"Jason's blog",subtitle:"Jason is a rookie developer",copyright:"© All rights reserved.",menu:[{label:"Articles",path:"/"},{label:"About me",path:"/about/"}],author:{name:"Jason Shaw",email:"amagiddmxh@qq.com",github:"amagiddmxh"}}},allMarkdownRemark:{group:[{fieldValue:"Design Culture",totalCount:1},{fieldValue:"Design Inspiration",totalCount:2},{fieldValue:"Typography",totalCount:3}]}},pathContext:{}}}});
+//# sourceMappingURL=path---categories-5c0b9c5b4e06611db7f2.js.map

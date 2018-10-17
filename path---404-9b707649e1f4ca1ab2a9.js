@@ -1,0 +1,2 @@
+webpackJsonp([0xe70826b53c04],{399:function(a,e){a.exports={data:{site:{siteMetadata:{title:"Jason's blog",subtitle:"Jason is a rookie developer",copyright:"© All rights reserved.",menu:[{label:"Articles",path:"/"},{label:"About me",path:"/about/"}],author:{name:"Jason Shaw",email:"amagiddmxh@qq.com",github:"amagiddmxh"}}}},pathContext:{}}}});
+//# sourceMappingURL=path---404-9b707649e1f4ca1ab2a9.js.map
